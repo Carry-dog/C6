@@ -1,7 +1,7 @@
-#define _CRT_SECURE_NO_WARNINGS 1
+#define _CRT_SECURE_NO_WARNINGS 
 #include<stdio.h>
-int main()
+int main(void)
 {
-	printf("hello world");
+	printf("我是第一");
 	return 0;
 }
