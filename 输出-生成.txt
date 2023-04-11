@@ -1,0 +1,8 @@
+﻿已启动生成...
+1>------ 已启动生成: 项目: Project21, 配置: Debug x64 ------
+1>kgkl.c
+1>D:\源代码\Project21\Project21\kgkl.c(7,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+1>Project21.vcxproj -> D:\源代码\Project21\x64\Debug\Project21.exe
+1>已完成生成项目“Project21.vcxproj”的操作。
+========== 生成: 1 成功，0 失败，0 最新，0 已跳过 ==========
+========= 生成 开始于 10:25 PM，并花费了 00.571 秒 ==========
