@@ -62,7 +62,7 @@ int main() {
 
 		if (count <= 22) {
 			printf("I Love You");//表白内容
-			printf("            To CSDN");// 被表白者的名字
+			printf("            To 涂子彬");// 被表白者的名字
 			count++;
 		}
 		else {
