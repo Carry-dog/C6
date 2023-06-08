@@ -8,20 +8,15 @@ int main(void)
 	int k = 0;
 	char ch;
 	printf("Enter the num,if enter the # to quit\n");
-	scanf("%c", &ch);
-	while (ch != '#')
+	while ((ch=getchar())!= '#')
 	{
-		if (ch = ' ')
+		if (ch == ' ')
 			i++;
-		else if (ch = '\n')
+		else if (ch == '\n')
 			j++;
 		else
 			k++;
-		scanf("%c", &ch);
 	}
 	printf("%d %d %d", i, j, k);
-		
-
-
 	return 0;
 }
