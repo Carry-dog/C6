@@ -28,11 +28,11 @@ char* s_gets(char* st, int n)
 	char* ret;
 	int i = 0;
 	ret = fgets(st, n, stdin);
-	if (ret)
-	{
-		while (st[i] != '\n' && st[i] != '\0')
-			i++;
+	if (ret)i++;t
 		if (st[i] == '\n')
+	{
+		while (st[i] != '\n' && s[i] != '\0')
+			
 			st[i] = '\0';
 		else
 			while (getchar() != '\n')
